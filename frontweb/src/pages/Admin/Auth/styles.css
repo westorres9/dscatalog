@@ -2,15 +2,12 @@
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    border: 1px solid red;
 }
 .auth-banner-container {
     display: none;
-    border: 1px solid red;
 }
 
 .auth-form-container {
-    border: 1px solid blue;
     width: 100%;
 }
 
@@ -53,7 +50,6 @@
 
     .auth-banner-container svg {
         width: 100%;
-        border: 1px solid blue;
     }
 }
 
